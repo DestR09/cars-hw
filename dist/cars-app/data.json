@@ -1,0 +1,36 @@
+{
+  "sport": [
+    {
+      "name": "Porsche 911 Turbo S",
+      "img": "https://cdn.pixabay.com/photo/2016/03/27/21/16/porsche-1281670_960_720.jpg",
+      "price": "18 000 ₽ / сутки"
+    },
+    {
+      "name": "Chevrolet Corvette C8",
+      "img": "https://cdn.pixabay.com/photo/2020/07/16/14/16/corvette-5410767_960_720.jpg",
+      "price": "15 000 ₽ / сутки"
+    },
+    {
+      "name": "Nissan GT-R R35",
+      "img": "https://cdn.pixabay.com/photo/2020/11/29/10/14/nissan-gt-r-5787879_960_720.jpg",
+      "price": "13 000 ₽ / сутки"
+    }
+  ],
+  "lux": [
+    {
+      "name": "Mercedes-Benz S-Class",
+      "img": "https://cdn.pixabay.com/photo/2021/01/16/17/53/mercedes-5922592_960_720.jpg",
+      "price": "25 000 ₽ / сутки"
+    },
+    {
+      "name": "BMW 7 Series",
+      "img": "https://cdn.pixabay.com/photo/2017/03/27/14/56/bmw-2175138_960_720.jpg",
+      "price": "22 000 ₽ / сутки"
+    },
+    {
+      "name": "Audi A8",
+      "img": "https://cdn.pixabay.com/photo/2019/08/30/12/43/audi-4441292_960_720.jpg",
+      "price": "20 000 ₽ / сутки"
+    }
+  ]
+}
